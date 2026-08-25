@@ -242,7 +242,7 @@ AI Classification Output
 ![AI Classification Output](screenshots/gemini-output.jpg)
 
 Airtable Email Log
-![AirtableLog](screenshots/airtable-record.PNG)
+![Airtable Log](screenshots/airtable-record.PNG)
 
 Human Review / Approval
 ![Human Review](screenshots/human-review.JPEG)
