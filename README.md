@@ -285,7 +285,7 @@ A full walkthrough demonstrating email intake, AI classification, confidence-bas
 
 👤 Author
 
-Hammed Timmy
+Okanlawon Abdulhammed
 
 AI & Automation Builder
 
