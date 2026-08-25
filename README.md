@@ -236,14 +236,16 @@ The result is an automated email-routing system that significantly reduces manua
 📸 Screenshots
 
 n8n Email Classification Workflow
+![n8n Email Classification Workflow](screenshots/n8n-workflow.PNG)
 
 AI Classification Output
+![AI Classification Output](screenshots/gemini-output.jpg)
 
 Airtable Email Log
+![AirtableLog](screenshots/airtable-record.PNG)
 
 Human Review / Approval
-
-Automated Email Forwarding
+![Human Review](screenshots/human-review.JPEG)
 
 ⸻
 
@@ -251,8 +253,7 @@ Automated Email Forwarding
 
 A full walkthrough demonstrating email intake, AI classification, confidence-based review, Airtable logging, and automated forwarding is available below.
 
-Demo: [Add your demo link here]
-
+[AI Email Classification & Routing System Demo](https://www.loom.com/share/e6b52fc178ac40d28b1496fea1f5cbfe)
 ⸻
 
 🔮 Future Improvements
